@@ -2,10 +2,7 @@
 
 ## A Decentralized Carbon Credit Marketplace
 
-![Green-Ledger](https://greenledger.pk/)
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://semver.org)
+[Visit our website: greenledger.pk](https://greenledger.pk/)
 
 Green-Ledger revolutionizes the carbon credit market with blockchain technology, creating transparency and eliminating fraud while connecting corporations, SMEs, and individuals directly.
 
@@ -36,13 +33,13 @@ Green-Ledger provides:
 
 ## 🚀 Getting Started
 
-# Clone the repository
+### Clone the repository
 git clone https://github.com/your-username/green-ledger.git
 
-# Navigate to the directory
+### Navigate to the directory
 cd green-ledger
 
-# Install dependencies
+### Install dependencies
 npm install
 
 # Run the development server
@@ -77,14 +74,6 @@ npm run dev
 - **Rosheel Baig** - CTO & Co-Founder
 - **Muhammad Waqas** - Head of Engineering
 - **Abubakar Mujahid** - EVP Engineering
-
-## 🤝 Contributing
-
-We welcome contributions to Green-Ledger! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to submit pull requests, our code of conduct, and development process.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## 📞 Contact
 
