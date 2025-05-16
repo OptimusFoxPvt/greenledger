@@ -2,7 +2,7 @@
 
 ## A Decentralized Carbon Credit Marketplace
 
-![Green-Ledger Banner](https://placeholder.com/banner.jpg)
+![Green-Ledger](https://greenledger.pk/)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://semver.org)
