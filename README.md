@@ -2,7 +2,7 @@
 
 ## A Decentralized Carbon Credit Marketplace
 
-[Visit our website: greenledger.pk](https://greenledger.pk/)
+[Visit our website](https://greenledger.pk/)
 
 Green-Ledger revolutionizes the carbon credit market with blockchain technology, creating transparency and eliminating fraud while connecting corporations, SMEs, and individuals directly.
 
@@ -42,7 +42,7 @@ cd green-ledger
 ### Install dependencies
 npm install
 
-# Run the development server
+### Run the development server
 npm run dev
 
 ## 🔧 Technology Stack
@@ -77,8 +77,7 @@ npm run dev
 
 ## 📞 Contact
 
-For business inquiries: business@green-ledger.com  
-For technical support: support@green-ledger.com
+For business inquiries: ceo@greenledger.pk 
 
 ---
 
